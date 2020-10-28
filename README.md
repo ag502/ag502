@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ag502&theme=react&show_icons=true&hide=stars,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ag502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=ag502&repo=github-readme-stats&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ag502/ag502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
