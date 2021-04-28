@@ -4,7 +4,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ag502)](https://solved.ac/ag502)
 ---
-https://velog.io/@ag502
+<a href="https://velog.io/@ag502" style="font-size: 30px">📗 study blog</a>
 <!--
 **ag502/ag502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
