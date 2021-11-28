@@ -1,6 +1,6 @@
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ag502&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ag502&hide_border=true&theme=react-dark&custom_title=contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   
