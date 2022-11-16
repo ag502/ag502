@@ -14,4 +14,3 @@
 -----
 
 #### 블로그
-<a href="https://velog.io/@ag502" style="font-size: 30px">📗 study blog</a>
