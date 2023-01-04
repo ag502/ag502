@@ -1,7 +1,3 @@
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ag502&hide_border=true&theme=react-dark&custom_title=contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ag502&theme=react&show_icons=true,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</br>
