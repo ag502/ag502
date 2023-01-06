@@ -9,4 +9,4 @@
 
 -----
 
-[스터디 블로그](https://ag502.github.io/)
+[블로그](https://ag502.github.io/)
